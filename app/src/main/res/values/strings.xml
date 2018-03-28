@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageSizeFix</string>
+    <string name="permdesc_flashlight">FLASH</string>
+</resources>
